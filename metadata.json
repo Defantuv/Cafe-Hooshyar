@@ -1,0 +1,6 @@
+{
+  "name": "کافه هوش‌یار | بازی ۶۰ روزه من پلاس (+M)",
+  "description": "اپلیکیشن تعاملی کافه هوش‌یار - هفتمین دوره جشنواره سراسری دانشجویی بار دانش (من پلاس)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
